@@ -16,13 +16,13 @@ Sono un Web Developer con la passione per il codice pulito e le architetture sca
 | **Backend** | PHP, Laravel (MVC, Eloquent, API REST) |
 | **Frontend** | JavaScript (ES6), React, HTML5, CSS3, Bootstrap |
 | **Database** | MySQL |
-| **Tools** | Git, GitHub, NPM, Postman, VS Code, Google Gemini |
+| **Tools** | Git, GitHub, NPM, Postman, VS Code, Google Gemini, Copilot |
 
 ---
 
 ### 🚀 Cosa sto combinando ultimamente?
 - 🔭 Sto lavorando su: **CV Backoffice** (Sistema gestione flotta e manutenzioni) castato in Laravel.
-- 🌱 Sto approfondendo: **Laravel & React.js**
+- 🌱 Sto approfondendo: **TypeScript & React.js**
 - ⚡ Fun fact: Sono più concentrato se c'è della musica Lo-Fi in sottofondo.
 
 ---
