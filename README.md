@@ -21,8 +21,8 @@ Sono un Web Developer con la passione per il codice pulito e le architetture sca
 ---
 
 ### 🚀 Cosa sto combinando ultimamente?
-- 🔭 Sto lavorando su: **CV Backoffice** (Sistema gestione flotta e manutenzioni) castato in Laravel.
-- 🌱 Sto approfondendo: **TypeScript & React.js**
+- 🔭 Sto lavorando su: **CV Backoffice** (Sistema gestione flotta e manutenzioni) castato in Laravel. E al mio portfolio
+- 🌱 Sto approfondendo: **Laravel & React.js**
 - ⚡ Fun fact: Sono più concentrato se c'è della musica Lo-Fi in sottofondo.
 
 ---
