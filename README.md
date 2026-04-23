@@ -13,10 +13,12 @@ Sono un Web Developer con la passione per il codice pulito e le architetture sca
 
 | Area | Tecnologie |
 | :--- | :--- |
-| **Backend** | PHP, Laravel (MVC, Eloquent, API REST) |
-| **Frontend** | JavaScript (ES6), React, HTML5, CSS3, Bootstrap |
+| **Backend** | PHP, Node.js |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6) |
+| **Librerie e Framework** | Bootstrap, React, Laravel (MVC, Eloquent, API REST), Express |
 | **Database** | MySQL |
-| **Tools** | Git, GitHub, NPM, Postman, VS Code, Google Gemini, Copilot |
+| **Versioning** | Git, GitHub |
+| **Tools** | NPM, Postman, Blade, VS Code, Google Gemini, Copilot |
 
 ---
 
