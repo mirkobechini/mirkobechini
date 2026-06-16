@@ -5,7 +5,7 @@
 # Ciao! Sono Mirko Bechini 👋
 ### 🐒 Full Stack Web Developer | PHP & Laravel Enthusiast
 
-Sono un Web Developer con la passione per il codice pulito e le architetture scalabili. Dopo un percorso intensivo in **Boolean**, sto approfondendo le mie conoscenze PHP e Laravel.
+Sono un Web Developer con la passione per il codice pulito e le architetture scalabili. Dopo un percorso intensivo in **Boolean**, sto approfondendo le mie conoscenze PHP e Laravel, e sviluppandone di nuove grazie al nuovo corso Multistack AI che sto seguendo.
 
 ---
 
