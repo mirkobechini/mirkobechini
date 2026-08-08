@@ -23,8 +23,8 @@ Sono un Web Developer con la passione per il codice pulito e le architetture sca
 ---
 
 ### 🚀 Cosa sto combinando ultimamente?
-- 🔭 Sto lavorando su: **AI** progetti creati utilizzando agenti AI. E al mio portfolio
-- 🌱 Sto approfondendo: **AI Agents**
+- 🔭 Sto lavorando su: **AI** progetti creati utilizzando agenti AI.
+- 🌱 Sto approfondendo: **AI Agents & Python**
 - ⚡ Fun fact: Sono più concentrato se c'è della musica Lo-Fi in sottofondo.
 
 ---
